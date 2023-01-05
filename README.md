@@ -5,7 +5,7 @@ Encuentra a tus personajes favoritos y los detalles de cada uno en la serie.
 ![rick-and-morty-characters](https://i.imgur.com/MIdWUPD.jpg)
 
 
-[DEMO](https://erickrg96.github.io/rick-and-morty-spa/)
+[DEMO]()
 
 ## Instalacion
 ---
