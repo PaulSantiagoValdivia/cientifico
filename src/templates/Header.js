@@ -1,20 +1,18 @@
-const Header =() => {
-    const view = `
-    <div class="Header-main">
+const Header = () => {
+  const view = `  
+    <header class="Header-main">
+      
       <div class="Header-logo">
-        <h1>
-          <a href="/">
-            100tifi.co
-          </a>
-        </h1>
+          <a href="/"><img src="https://i.imgur.com/7utDxm8.png" alt="Rick and Morty"></a>
       </div>
-        <div class="Header-nav">
-          <a href="#/about/">
-            About
-          </a>
-        </div>
-    </div> 
-    `;
-    return view;
+      <nav class="Header-nav">
+        <a href="#/about/" class="nav-element">About</a>
+          <button class="switch" id="switch">
+            <span><i class="fas fa-sun"></i></span>
+            <span><i class="fas fa-moon"></i></span>
+          </button>
+      </nav>
+    </header>`;
+  return view;
 };
 export default Header;
