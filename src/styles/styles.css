@@ -16,7 +16,7 @@ body {
   background-color: var(--background-ligth);
   color: #3c484e;
   font-family: 'Open Sans', sans-serif;
-  transition: 1s ease all;
+  transition: 2s ease all;
 }
 
 body.dark {
@@ -40,7 +40,7 @@ body.dark {
   padding: 1em;
   position: fixed;
   background-color: var(--background-ligth);
-  transition: 1s ease all;
+  transition: 2s ease all;
 }
 
 body.dark .Header-main {
