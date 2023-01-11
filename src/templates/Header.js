@@ -1,7 +1,6 @@
 const Header = () => {
   const view = `  
     <header class="Header-main">
-      
       <div class="Header-logo">
           <a href="/"><img src="https://i.imgur.com/7utDxm8.png" alt="Rick and Morty"></a>
       </div>
